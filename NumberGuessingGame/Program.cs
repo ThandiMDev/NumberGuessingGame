@@ -13,7 +13,7 @@ namespace NumberGuessingGame
 
         static void Main(string[] args)
         {
-            Console.Title = "Number Guessing Game";
+            Console.Title = "Number PICKING GAME";
             Console.ForegroundColor = ConsoleColor.Cyan;
 
             // Create database and table if it doesn't exist
